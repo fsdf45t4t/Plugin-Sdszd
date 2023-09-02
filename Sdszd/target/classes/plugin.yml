@@ -1,0 +1,18 @@
+name: Sdszd
+version: '1.0-SNAPSHOT'
+main: me.abbas.sdszd.Main
+api-version: '1.20'
+
+
+commands:
+  kit:
+    description: Your description
+    usage: /<command>
+    permission: kit.Sdszd
+  list:
+    description: Your description
+    permission: list.Sdszd
+  fly:
+    permission: fly.Sdszd
+  Help:
+    permission: Help.Sdszd
